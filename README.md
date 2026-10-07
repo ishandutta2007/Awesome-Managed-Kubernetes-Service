@@ -4,7 +4,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/) [![Cloud Native](https://img.shields.io/badge/CNCF-Cloud%20Native-blue)](https://www.cncf.io/) <a href="https://github.com/ishandutta2007"><img alt="GitHub folloeers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-A curated directory of **Commercial Managed Kubernetes Platforms (SaaS)** 🌐 and **Open-Source Kubernetes Ecosystem Projects** 🛠️. This guide covers top-tier cloud services, self-hosted Kubernetes distributions, cluster operations, control plane pricing 💰, free tier limits 🎁, company valuations 📈, and open-source GitHub star counts ⭐.
+A curated directory of **Commercial Managed Kubernetes Platforms (SaaS)** 🌐 and **Open-Source Kubernetes Ecosystem Projects** 🛠️. This guide covers top-tier cloud services, self-hosted Kubernetes distributions, cluster operations, control plane pricing 💰, free tier limits 🎁, company valuations 📈, and open-source GitHub Stars_Counts ⭐.
 
 ---
 
@@ -50,9 +50,9 @@ Below is a comparison of leading managed Kubernetes services, sorted in descendi
 
 The open-source ecosystem provides the foundation for container orchestration, cluster lifecycle management, lightweight distributions, and operator tooling. 
 
-Projects below are sorted in descending order by **GitHub Star Count** ⭐.
+Projects below are sorted in descending order by **GitHub Stars_Count** ⭐.
 
-| Project 📦 | Description 📝 | License 📜 | GitHub Stars ⭐ |
+| Project 📦 | Description 📝 | License 📜 | GitHub_Stars ⭐ |
 | :--- | :--- | :--- | :--- |
 | **[Kubernetes](https://github.com/kubernetes/kubernetes)** | The de facto container orchestration platform and foundation for all managed Kubernetes services. | Apache-2.0 | [![Stars](https://img.shields.io/github/stars/kubernetes/kubernetes?style=social&color=white)](https://github.com/kubernetes/kubernetes/stargazers) |
 | **[Prometheus](https://github.com/prometheus/prometheus)** | The CNCF cloud-native monitoring system and time-series database standard for Kubernetes clusters. | Apache-2.0 | [![Stars](https://img.shields.io/github/stars/prometheus/prometheus?style=social&color=white)](https://github.com/prometheus/prometheus/stargazers) |
@@ -84,7 +84,7 @@ Projects below are sorted in descending order by **GitHub Star Count** ⭐.
 ## 🤝 How to Contribute
 
 1. Fork this repository 🍴.
-2. Update entries in `README.md` maintaining table formatting, pricing accuracy, and star badges.
+2. Update entries in `README.md` maintaining table formatting, pricing accuracy, and Stars_Badges.
 3. Submit a Pull Request 🔀 detailing your changes.
 
 ---
